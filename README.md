@@ -3,7 +3,7 @@
       
 ## Objective
 This study employs machine learning regression techniques to analyze the relationship between students' study hours and their academic scores. We utilized two different regression models - Linear Regression and Decision Tree Regression - to predict student performance based on their study time. The main objective is to determine which model provides better predictive accuracy and insights for educational planning.
-   
+    
 Source Dataset from Kaggle : https://www.kaggle.com/datasets/markmedhat/student-scores
   
 ## Goals 
