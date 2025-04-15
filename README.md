@@ -6,7 +6,7 @@ This study employs machine learning regression techniques to analyze the relatio
         
 Source Dataset from Kaggle : https://www.kaggle.com/datasets/markmedhat/student-scores
      
-## Goals 
+## Goals  
 - To analyze the relationship between study hours and academic performance using machine learning regression models and decision tree
 - To compare the effectiveness of Linear Regression and Decision Tree models in predicting student scores
 - To identify the most accurate model for educational performance prediction
